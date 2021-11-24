@@ -7,7 +7,7 @@ Useful for launch / stop video surveillance at day / night
 * * * 
 
 ```
-python3 astral
+python3 solar.py
 ```
 
 * * * 
